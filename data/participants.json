@@ -1135,6 +1135,17 @@
 		   "website": "",
 		   "twitter" : "https://twitter.com/mivishvajeet",
 		   "referral" : ""
+		},
+                {
+		    "name" : "Pavika Chaudhary",
+		   "imageurl" : "",
+		   "about" : "",
+		   "college" : "IIIT-A",
+		   "facebook" : "",
+		   "github" : "https://github.com/pavikachaudhary",
+		   "website": "",
+		   "twitter" : "http://twitter.com/pavikachaudhary",
+		   "referral" : ""
 		}
 	]
 }
